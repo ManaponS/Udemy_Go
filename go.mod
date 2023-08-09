@@ -1,3 +1,3 @@
-module s2_getGo
+module toddMcleod
 
 go 1.20
