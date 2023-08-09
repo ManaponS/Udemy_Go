@@ -1,6 +1,6 @@
 github.com/ManaponS/dog v0.0.0-20230809061832-07ee8b10fda5 h1:s2EmYMnfnRsBOb+ZMVNPdOWHPa4vygsJmUJkNdsyxow=
 github.com/ManaponS/dog v0.0.0-20230809061832-07ee8b10fda5/go.mod h1:o3lA2YM/xCDBPSJyMv9oCcz7EFlRSKpJbcvc4L82J/M=
-github.com/ManaponS/puppy v0.0.0-20230809055627-40954809aa08 h1:QIq2y3B5KHjYu08UsRcV6YYAjM6RGPrjQJAgKIIB8iQ=
-github.com/ManaponS/puppy v0.0.0-20230809055627-40954809aa08/go.mod h1:g3kpUX8lQCTbGUfNvpiuoMGYuVlU8zq1cBs6swgBnBU=
 github.com/ManaponS/puppy v0.0.0-20230809063448-dbad303284d0 h1:kQGAWaWAPAV97hfBDZhvH60zIHrj6CFiaxP1xI4M+FA=
 github.com/ManaponS/puppy v0.0.0-20230809063448-dbad303284d0/go.mod h1:BEXS3LHdq8yr/Ug+V4XHjvnR9z16aDBwUx3mArybNJQ=
+github.com/ManaponS/puppy v1.2.0 h1:iXkDoR+ssI8OgQMDMCKGkoIqfng1hqRV6jJ5zEPjxs8=
+github.com/ManaponS/puppy v1.2.0/go.mod h1:BEXS3LHdq8yr/Ug+V4XHjvnR9z16aDBwUx3mArybNJQ=
