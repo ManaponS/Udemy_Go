@@ -4,3 +4,7 @@ github.com/ManaponS/puppy v0.0.0-20230809063448-dbad303284d0 h1:kQGAWaWAPAV97hfB
 github.com/ManaponS/puppy v0.0.0-20230809063448-dbad303284d0/go.mod h1:BEXS3LHdq8yr/Ug+V4XHjvnR9z16aDBwUx3mArybNJQ=
 github.com/ManaponS/puppy v1.2.0 h1:iXkDoR+ssI8OgQMDMCKGkoIqfng1hqRV6jJ5zEPjxs8=
 github.com/ManaponS/puppy v1.2.0/go.mod h1:BEXS3LHdq8yr/Ug+V4XHjvnR9z16aDBwUx3mArybNJQ=
+golang.org/x/crypto v0.12.0 h1:tFM/ta59kqch6LlvYnPa0yx5a83cL2nHflFhYKvv9Yk=
+golang.org/x/crypto v0.12.0/go.mod h1:NF0Gs7EO5K4qLn+Ylc+fih8BSTeIjAP05siRnAh98yw=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb h1:mIKbk8weKhSeLH2GmUTrvx8CjkyJmnU1wFmg59CUjFA=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
